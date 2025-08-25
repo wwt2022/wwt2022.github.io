@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-China Guangdong Shenzhen"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Wei WeiTong's HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
