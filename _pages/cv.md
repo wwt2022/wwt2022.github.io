@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 
+* 
+* 本科数学与应用数学专业，英才班, 南方科技大学数学系, 2022-至今
 
-Work experience
+Study experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Summer 2025: 2025 “代数与数论”暑期学校提高班学员
+  * 
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Spring 2025: 北京国际数学研究中心第17期研究生强化班学员
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
