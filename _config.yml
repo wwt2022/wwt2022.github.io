@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : https://github.com/wwt2022/wwt2022.github.io/raw/master/images/mashiro.jpg
-  name             : "wwt2022"
+  name             : "Wei WeiTong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "南方科技大学数学系22级本科生，想学代数几何。"
   location         : "中国 广东 深圳"
   employer         : "南方科技大学"
   uri              : # URL
