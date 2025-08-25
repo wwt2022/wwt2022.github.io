@@ -11,7 +11,7 @@ locale                   : "en-China Guangdong Shenzhen"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Wei WeiTong's HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wei WeiTong"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "wwt2022"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "中国 广东 深圳"
+  employer         : "Southern University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "12210325@mail.sustech.edu.cn" 
 
   # Academic websites
   academia         : # URL
